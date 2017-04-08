@@ -79,22 +79,22 @@ h1 {
     /*margin-top: -148px*/
 }
 
-#v4-pre-loaded .loading:after {
-    width: 100%;
-    line-height: 36px;
-    content: 'The page is loading...';
-    position: absolute;
-    left: 0;
-    bottom: -36px;
-    font-size: 14px;
-    text-align: center;
-    color: #787977;
-    opacity: 0;
-    -webkit-transition: opacity .36s linear;
-    transition: opacity .36s linear;
-    // -webkit-animation: fadeIn .8s linear 1s 1 forwards;
-    // animation: fadeIn .8s linear 1s 1 forwards
-}
+// #v4-pre-loaded .loading:after {
+//     width: 100%;
+//     line-height: 36px;
+//     content: 'The page is loading...';
+//     position: absolute;
+//     left: 0;
+//     bottom: -36px;
+//     font-size: 14px;
+//     text-align: center;
+//     color: #787977;
+//     opacity: 0;
+//     -webkit-transition: opacity .36s linear;
+//     transition: opacity .36s linear;
+//     // -webkit-animation: fadeIn .8s linear 1s 1 forwards;
+//     // animation: fadeIn .8s linear 1s 1 forwards
+// }
 
 
 @-webkit-keyframes loadingInit {
